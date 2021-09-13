@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 - 👯 我在寻找志同道合的伙伴
 - 📫 可以通过邮箱来联系我:2116893813@qq.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yellow-feces&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yellow-feces&show_icons=true&theme=radical&hide=contribs,prs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yellow-feces&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yellow-feces&hide=HTML,Tcl,Shell,javascript,VHDL,V,SystemVerilog&langs_count=10&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
