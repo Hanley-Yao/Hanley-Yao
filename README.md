@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 #### 你好，我是Yellow-feces，来自中国，我的家乡在福建
 
-👀 我对计算机很有热情，现在是一名高中学生
-🌱 我正在学习 FPGA Verilog Python C/C++
-👯 我在寻找志同道合的伙伴
-📫 可以通过邮箱来联系我:2116893813@qq.com
+- 👀 我对计算机很有热情，现在是一名高中学生
+- 🌱 我正在学习 FPGA Verilog Python C/C++
+- 👯 我在寻找志同道合的伙伴
+- 📫 可以通过邮箱来联系我:2116893813@qq.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yellow-feces&show_icons=true&theme=radical)
 
