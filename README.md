@@ -22,7 +22,10 @@ Here are some ideas to get you started:
 - 👯 我在寻找志同道合的伙伴
 - 📫 可以通过邮箱来联系我:2116893813@qq.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yellow-feces&show_icons=true&theme=radical&hide=contribs,prs&count_private=true&include_all_commits=true&hide_border=tree&locale=cn)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yellow-feces&hide=HTML,Tcl,Shell,javascript,VHDL,V,SystemVerilog&langs_count=10&theme=radical&locale=cn&include_all_commits=tree&hide_border=tree)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yellow-feces&hide=HTML,Tcl,Shell,javascript,VHDL,V,SystemVerilog&langs_count=10&theme=radical&locale=cn&include_all_commits=tree&hide_border=tree" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yellow-feces&show_icons=true&theme=radical&hide=contribs,prs&count_private=true&include_all_commits=true&hide_border=tree&locale=cn" />
+</a>  
