@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
-你好，我是Yellow-feces，来自中国，我的家乡在福建
+#### 你好，我是Yellow-feces，来自中国，我的家乡在福建
 
 👀 我对计算机很有热情，现在是一名高中学生
 🌱 我正在学习 FPGA Verilog Python C/C++
