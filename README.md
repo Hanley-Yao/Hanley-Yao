@@ -2,8 +2,8 @@
 
 #### 你好，我是Hanley-Yao，来自中国，我的家乡在福建
 
-- 👀 我对计算机很有热情，现在是一名高中学生
-- 🌱 我正在学习 FPGA 设计
+- 👀 我现在是一名普通高中学生
+- 🌱 我能化简为繁✔
 
 <a href="https://github.com/Hanley-Yao">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
