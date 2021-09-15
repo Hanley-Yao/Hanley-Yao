@@ -3,9 +3,7 @@
 #### 你好，我是Yellow-feces，来自中国，我的家乡在福建
 
 - 👀 我对计算机很有热情，现在是一名高中学生
-- 🌱 我正在学习 FPGA Verilog Python C/C++
-- 👯 我在寻找志同道合的伙伴
-- 📫 可以通过邮箱来联系我:2116893813@qq.com
+- 🌱 我正在学习 FPGA 设计
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
