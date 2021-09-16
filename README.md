@@ -3,7 +3,7 @@
 #### 你好，我是Hanley-Yao，来自中国，我的家乡在福建
 
 - 👀 我现在是一名普通高中学生
-- 🌱 我能化简为繁✔
+- 🌱 I can simple2complex ✔
 
 <a href="https://github.com/Hanley-Yao">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
